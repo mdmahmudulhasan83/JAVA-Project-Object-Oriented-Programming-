@@ -1,0 +1,182 @@
+### Student Info ###
+Student Name: HASAN,MD
+Student ID: MD.
+Department: MAHMUDUL
+
+
+### Student Info ###
+Student Name: HASAN
+Student ID: 22-46256--1
+Department: CSE
+
+
+### Student Info ###
+Student Name: Sajid
+Student ID: 22-46256-1
+Department: CSE
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: 34
+Student ID: 2432
+Department: 234
+
+
+### Student Info ###
+Student Name: AKAS
+Student ID: ASRAF
+Department: YH
+
+
+### Student Info ###
+Student Name: 324
+Student ID: 455
+Department: 345RE
+
+
+### Student Info ###
+Student Name: IQBAL,TAMZID
+Student ID: 22-46255-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: IQBAL,TAMZID
+Student ID: 22-46255-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: IQBAL,TAMZID
+Student ID: 22-46255-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN,MD.MAHMUDUL
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN
+Student ID: 123
+Department: CS
+
+
+### Student Info ###
+Student Name: HASAN
+Student ID: 123
+Department: CS
+
+
+### Student Info ###
+Student Name: A
+Student ID: 123
+Department: CS
+
+
+
+
+### Student Info ###
+Student Name: SAJID,TARIFUJ
+Student ID: 22-46273-1
+Department: CS
+
+
+### Student Info ###
+Student Name: LIANA,MEHJABIN
+Student ID: 22-46503-1
+Department: cs
+
+
+### Student Info ###
+Student Name: LIANA
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: Sajid,Tarifuz
+Student ID: 22-46273-1
+Department: CS
+
+
+### Student Info ###
+Student Name: Akasah,Ashraf
+Student ID: 21-45114-2
+Department: EEE
+
+
+### Student Info ###
+Student Name: HASAN
+Student ID: 22-46256-1
+Department: CS
+
+
+### Student Info ###
+Student Name: asan
+Student ID: 2324
+Department: cs
+
+
+### Student Info ###
+Student Name: Hasan
+Student ID: 22-46256-1
+Department: CS
+
+
